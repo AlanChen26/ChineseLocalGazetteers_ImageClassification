@@ -1,4 +1,4 @@
-x# Image Classification for Historical Documents: A Study on Chinese Local Gazetteers
+# Image Classification for Historical Documents: A Study on Chinese Local Gazetteers
 ## Overview
 We present a novel approach for automatically classifying illustrations from historical Chinese
 local gazetteers using modern deep learning techniques. Our goal is to facilitate the digital organiza-
