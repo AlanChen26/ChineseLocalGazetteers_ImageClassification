@@ -25,6 +25,7 @@ We apply several data preprocessing techniques to our dataset, including image b
 [Test set Label (three-category dataset)](<https://drive.google.com/uc?export=download&id=1Dy7IcPAjb5Dj16kR5o4D02wYZGNrSxZY>)
 ## Pre-trained Models
 The DaViT model demonstrates exceptional performance in both the nine-class dataset, achieving an accuracy of 93.9% and an F1-score of 90.6%, as well as the three-category dataset, with an accuracy of 98.9% and an F1-score of 97.9%. Following closely, the Swin Transformer V2 model demonstrates strong performance as the second-best model. Download the pre-trained models used in the example code here.
+
 [DaViT](<https://drive.google.com/uc?export=download&id=1NkxpMgbTXSlyo5_P08KSgVZJtoancrnM>)
 
 [Swin Transformer V2](<https://drive.google.com/uc?export=download&id=1PdaYuM_9PztDhQNOyblPiu9FsDOvpTyZ>)
