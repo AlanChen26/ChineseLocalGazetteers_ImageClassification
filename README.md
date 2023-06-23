@@ -1,4 +1,14 @@
 # Image Classification for Historical Documents: A Study on Chinese Local Gazetteers
+## Overview
+We present a novel approach for automatically classifying illustrations from historical Chinese
+local gazetteers using modern deep learning techniques. Our goal is to facilitate the digital organiza-
+tion and study of a large quantity of digitized local gazetteers. We evaluate the performance of eight
+state-of-the-art deep neural networks on a dataset of 4,309 manually labeled and organized images
+of Chinese local gazetteer illustrations, grouped into three coarse categories and nine fine classes
+according to their contents. Our experiments show that DaViT achieved the highest classification
+accuracy of 93.9% and F1-score of 90.6%.
+This repository provides an example code for training deep learning models to classify illustrations from historical Chinese
+local gazetteers.
 ## Dataset
 We apply several data preprocessing techniques to our dataset, including image binarization, resizing, border cropping, and data augmentation.
 
